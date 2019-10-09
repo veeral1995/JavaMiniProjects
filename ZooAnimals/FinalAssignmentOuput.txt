@@ -1,0 +1,580 @@
+//Final Assignment PrintOut
+// Sarah Kujala, Kristen Flaherty, Veeral Patel, Jason Ortiz
+
+
+_____________________________________
+This current fish information is:
+
+The species is: Leopard Shark
+The gender is: Male
+The location is: 1
+The average lifespan is: 17
+The average weight is: 40
+The diet consists of: Invertebrates and Crustaceans
+The health status is: 1/n
+
+
+_____________________________________
+This current fish information is:
+
+The species is: Southern Stingray
+The gender is: Female
+The location is: 1
+The average lifespan is: 6
+The average weight is: 120
+The diet consists of: Small Fish and Crustaceans
+The health status is: 1/n
+
+
+_____________________________________
+This current fish information is:
+
+The species is: Atlantic Goliath Grouper
+The gender is: Male
+The location is: 1
+The average lifespan is: 7
+The average weight is: 600
+The diet consists of: Fish and Octopus
+The health status is: 2/n
+
+
+_____________________________________
+This current fish information is:
+
+The species is: Porcupine Fish
+The gender is: Male
+The location is: 1
+The average lifespan is: 5
+The average weight is: 5
+The diet consists of: Crustaceans and Sea Urchins
+The health status is: 1/n
+
+
+_____________________________________
+This current fish information is:
+
+The species is: Sand Tiger Shark
+The gender is: Female
+The location is: 1
+The average lifespan is: 6
+The average weight is: 259
+The diet consists of: Smaller Sharks and Squids
+The health status is: 1/n
+
+
+_____________________________________
+This current mammal information is:
+
+The species is: Brown Bear
+The gender is: Male
+The location is: 2
+The average lifespan is: 25
+The average weight is: 1000
+The diet consists of: Salmon
+The health status is: 1
+
+
+
+_____________________________________
+This current mammal information is:
+
+The species is: Red Panda
+The gender is: Female
+The location is: 2
+The average lifespan is: 4
+The average weight is: 10
+The diet consists of: Bamboo Leaves
+The health status is: 2
+
+
+
+_____________________________________
+This current mammal information is:
+
+The species is: Cow
+The gender is: Male
+The location is: 3
+The average lifespan is: 14
+The average weight is: 1200
+The diet consists of: Grass
+The health status is: 1
+
+
+
+_____________________________________
+This current mammal information is:
+
+The species is: Sea Otter
+The gender is: Female
+The location is: 1
+The average lifespan is: 19
+The average weight is: 50
+The diet consists of: Fish
+The health status is: 1
+
+
+
+_____________________________________
+This current mammal information is:
+
+The species is: Horse
+The gender is: Female
+The location is: 3
+The average lifespan is: 25
+The average weight is: 1000
+The diet consists of: Grass
+The health status is: 2
+
+
+
+_____________________________________
+This current bird information is:
+
+The species is: Bald Eagle
+The gender is: Female
+The location is: 4
+The average lifespan is: 25
+The average weight is: 12
+The diet consists of: Fish
+
+
+
+_____________________________________
+This current bird information is:
+
+The species is: Chicken
+The gender is: Male
+The location is: 3
+The average lifespan is: 7
+The average weight is: 6
+The diet consists of: Insects
+
+
+
+_____________________________________
+This current bird information is:
+
+The species is: Snowy Owl
+The gender is: Male
+The location is: 6
+The average lifespan is: 35
+The average weight is: 4
+The diet consists of: Lemmings
+
+
+
+_____________________________________
+This current bird information is:
+
+The species is: African Penguin
+The gender is: Male
+The location is: 1
+The average lifespan is: 11
+The average weight is: 6
+The diet consists of: Sardines
+
+
+
+_____________________________________
+This current bird information is:
+
+The species is: Harris Hawk
+The gender is: Female
+The location is: 5
+The average lifespan is: 20
+The average weight is: 3
+The diet consists of: Lizards
+
+
+
+_____________________________________
+This current reptile information is:
+
+The species is: Komodo Monitors
+The gender is: Male
+The location is: 7
+The average lifespan is: 12
+The average weight is: 200
+The diet consists of: Deer and Buffalo
+The health status is: 1
+
+
+
+_____________________________________
+This current reptile information is:
+
+The species is: West African Dwarf Crocodile
+The gender is: Female
+The location is: 4
+The average lifespan is: 67
+The average weight is: 40
+The diet consists of: Crabs and Small Mammals
+The health status is: 1
+
+
+
+_____________________________________
+This current reptile information is:
+
+The species is: Barmese Python
+The gender is: Male
+The location is: 7
+The average lifespan is: 17
+The average weight is: 88
+The diet consists of: Birds and Mammals
+The health status is: 1
+
+
+
+_____________________________________
+This current mammal information is:
+
+The species is: Leopard
+The gender is: Male
+The location is: 7
+The average lifespan is: 9
+The average weight is: 85
+The diet consists of: Small Deer
+The health status is: 1
+
+
+
+_____________________________________
+This current bird information is:
+
+The species is: Woodpecker
+The gender is: Female
+The location is: 2
+The average lifespan is: 4
+The average weight is: 2
+The diet consists of: Nuts and Bugs
+
+
+
+
+The fish Leopard Shark has been fed the following food:
+Invertebrates and Crustaceans
+It has been fed the appropriate amount at the right time
+
+
+
+
+The fish Southern Stingray has been fed the following food:
+Small Fish and Crustaceans
+It has been fed the appropriate amount at the right time
+
+
+
+
+The fish Atlantic Goliath Grouper has been fed the following food:
+Fish and Octopus
+It has been fed the appropriate amount at the right time
+
+
+
+
+The fish Porcupine Fish has been fed the following food:
+Crustaceans and Sea Urchins
+It has been fed the appropriate amount at the right time
+
+
+
+
+The fish Sand Tiger Shark has been fed the following food:
+Smaller Sharks and Squids
+It has been fed the appropriate amount at the right time
+
+
+
+
+The mammal Brown Bear has been feed the following food:
+Salmon
+It has been fed the appropriate amount at the right time
+
+
+
+
+The mammal Red Panda has been feed the following food:
+Bamboo Leaves
+It has been fed the appropriate amount at the right time
+
+
+
+
+The mammal Cow has been feed the following food:
+Grass
+It has been fed the appropriate amount at the right time
+
+
+
+
+The mammal Sea Otter has been feed the following food:
+Fish
+It has been fed the appropriate amount at the right time
+
+
+
+
+The mammal Horse has been feed the following food:
+Grass
+It has been fed the appropriate amount at the right time
+
+
+
+
+The bird Bald Eagle has been feed the following food:
+Fish
+It has been fed the appropriate amount at the right time
+
+
+
+
+The bird Chicken has been feed the following food:
+Insects
+It has been fed the appropriate amount at the right time
+
+
+
+
+The bird Snowy Owl has been feed the following food:
+Lemmings
+It has been fed the appropriate amount at the right time
+
+
+
+
+The bird African Penguin has been feed the following food:
+Sardines
+It has been fed the appropriate amount at the right time
+
+
+
+
+The bird Harris Hawk has been feed the following food:
+Lizards
+It has been fed the appropriate amount at the right time
+
+
+
+
+The reptile Komodo Monitors has been feed the following food:
+Deer and Buffalo
+It has been fed the appropriate amount at the right time
+
+
+
+
+The reptile West African Dwarf Crocodile has been feed the following food:
+Crabs and Small Mammals
+It has been fed the appropriate amount at the right time
+
+
+
+
+The reptile Barmese Python has been feed the following food:
+Birds and Mammals
+It has been fed the appropriate amount at the right time
+
+
+
+
+The mammal Leopard has been feed the following food:
+Small Deer
+It has been fed the appropriate amount at the right time
+
+
+
+
+The bird Woodpecker has been feed the following food:
+Nuts and Bugs
+It has been fed the appropriate amount at the right time
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Laura Baysinger
+Their job title is: Zoo Manager
+Their salary is: 60000
+Their employee ID is: 1234
+Their phone number is: 651-293-2212
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Brad Smith
+Their job title is: Zookeeper
+Their salary is: 50000
+Their employee ID is: 1235
+Their phone number is: 651-234-2134
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Morgan Halsy
+Their job title is: Veterinarian
+Their salary is: 50000
+Their employee ID is: 1236
+Their phone number is: 651-256
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Jennifer Wadly
+Their job title is: Guest Services
+Their salary is: 30000
+Their employee ID is: 1236
+Their phone number is: 612-876-4576
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Tim Woulfe
+Their job title is: Guest Services
+Their salary is: 30000
+Their employee ID is: 1237
+Their phone number is: 634-287-0987
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Jordan Sheridan
+Their job title is: Volunteer Manager
+Their salary is: 35000
+Their employee ID is: 1238
+Their phone number is: 632-987-1029
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Jack Melon
+Their job title is: Volunteer
+Their salary is: 0
+Their employee ID is: 1239
+Their phone number is: 651-987-1234
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Rachel Hart
+Their job title is: Volunteer
+Their salary is: 0
+Their employee ID is: 1240
+Their phone number is: 651-234-8765
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: Kendall Selt
+Their job title is: Volunteer
+Their salary is: 0
+Their employee ID is: 1241
+Their phone number is: 651-392-2353
+
+
+
+______________________________
+
+The current information on this employee is:
+The employee name is: John Gordon
+Their job title is: Vet Tech
+Their salary is: 40000
+Their employee ID is: 1242
+Their phone number is: 651-374-1827
+
+
+
+
+Payroll Summary:
+Emplyee name: Laura Baysinger
+Salary: 60000
+Emplyee will be paid 5000 for this month.
+
+
+
+
+Payroll Summary:
+Emplyee name: Brad Smith
+Salary: 50000
+Emplyee will be paid 4166 for this month.
+
+
+
+
+Payroll Summary:
+Emplyee name: Morgan Halsy
+Salary: 50000
+Emplyee will be paid 4166 for this month.
+
+
+
+
+Payroll Summary:
+Emplyee name: Jennifer Wadly
+Salary: 30000
+Emplyee will be paid 2500 for this month.
+
+
+
+
+Payroll Summary:
+Emplyee name: Tim Woulfe
+Salary: 30000
+Emplyee will be paid 2500 for this month.
+
+
+
+
+Payroll Summary:
+Emplyee name: Jordan Sheridan
+Salary: 35000
+Emplyee will be paid 2916 for this month.
+
+
+
+
+Volunteer Summary:
+Volunteer name: Jack Melon
+Thanks for the hard work!
+
+
+
+
+Volunteer Summary:
+Volunteer name: Rachel Hart
+Thanks for the hard work!
+
+
+
+
+Volunteer Summary:
+Volunteer name: Kendall Selt
+Thanks for the hard work!
+
+
+
+
+Payroll Summary:
+Emplyee name: John Gordon
+Salary: 40000
+Emplyee will be paid 3333 for this month.
+
+
+Press any key to continue . . .
